@@ -1,16 +1,29 @@
 # 【关于 NLP】百问百答
 
-> 作者：杨夕、芙蕖、李玲、陈海顺、twilight、LeoLRH、JimmyDU、艾春辉、张永泰、金金金
+> 作者：杨夕、芙蕖、李玲、陈海顺、twilight、LeoLRH、JimmyDU、张永泰
 > 
-> 面筋地址：https://github.com/km1994/NLP-Interview-Notes
+> 介绍：本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 > 
-> 个人笔记：https://github.com/km1994/nlp_paper_study
+> NLP 百面百搭 地址：https://github.com/km1994/NLP-Interview-Notes
 > 
->  NLP && 推荐学习群【人数满了，加微信 blqkm601 】
-
-![](img/20210523220743.png)
+> **[手机版NLP百面百搭](https://mp.weixin.qq.com/s?__biz=MzAxMTU5Njg4NQ==&mid=100005719&idx=3&sn=5d8e62993e5ecd4582703684c0d12e44&chksm=1bbff26d2cc87b7bf2504a8a4cafc60919d722b6e9acbcee81a626924d80f53a49301df9bd97&scene=18#wechat_redirect)**
+> 
+> 推荐系统 百面百搭 地址：https://github.com/km1994/RES-Interview-Notes
+> 
+> **[手机版推荐系统百面百搭](https://mp.weixin.qq.com/s/b_KBT6rUw09cLGRHV_EUtw)**
+> 
+> 搜索引擎 百面百搭 地址：https://github.com/km1994/search-engine-Interview-Notes 【编写ing】
+> 
+> NLP论文学习笔记：https://github.com/km1994/nlp_paper_study
+> 
+> 推荐系统论文学习笔记：https://github.com/km1994/RS_paper_study
+> 
+> GCN 论文学习笔记：https://github.com/km1994/GCN_study
+> 
+> **推广搜 军火库**：https://github.com/km1994/recommendation_advertisement_search
 
 ![](img/微信截图_20210301212242.png)
+> **关注公众号 【关于NLP那些你不知道的事】 加入 【NLP && 推荐学习群】一起学习！！！**
 
 ![](img/微信截图_20210212153059.png)
 
@@ -19,11 +32,15 @@
 
 本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
+> 注：github 网页版 看起来不舒服，可以看 **[手机版NLP百面百搭](https://mp.weixin.qq.com/s?__biz=MzAxMTU5Njg4NQ==&mid=100005719&idx=3&sn=5d8e62993e5ecd4582703684c0d12e44&chksm=1bbff26d2cc87b7bf2504a8a4cafc60919d722b6e9acbcee81a626924d80f53a49301df9bd97&scene=18#wechat_redirect)**
+
+
 ## 目录架构
 
 - [【关于 NLP】百问百答](#关于-nlp百问百答)
   - [介绍](#介绍)
   - [目录架构](#目录架构)
+  - [手机版 NLP 百面百搭](#手机版-nlp-百面百搭)
   - [内容框架](#内容框架)
     - [一、【关于 基础算法篇】那些你不知道的事](#一关于-基础算法篇那些你不知道的事)
     - [二、【关于 机器学习算法篇】那些你不知道的事](#二关于-机器学习算法篇那些你不知道的事)
@@ -51,8 +68,14 @@
       - [5.1 【关于 少样本问题】那些你不知道的事](#51-关于-少样本问题那些你不知道的事)
       - [5.2 【关于 脏数据】那些你不知道的事](#52-关于-脏数据那些你不知道的事)
       - [5.3 【关于 炼丹炉】那些你不知道的事](#53-关于-炼丹炉那些你不知道的事)
+      - [5.4 【关于 早停法 EarlyStopping 】那些你不知道的事](#54-关于-早停法-earlystopping-那些你不知道的事)
+      - [5.5 【关于 标签平滑法 LabelSmoothing 】那些你不知道的事](#55-关于-标签平滑法-labelsmoothing-那些你不知道的事)
     - [六、【关于 Python 】那些你不知道的事](#六关于-python-那些你不知道的事)
     - [七、【关于 Tensorflow 】那些你不知道的事](#七关于-tensorflow-那些你不知道的事)
+
+## 手机版 NLP 百面百搭
+
+- **[手机版NLP百面百搭](https://mp.weixin.qq.com/s?__biz=MzAxMTU5Njg4NQ==&mid=100005719&idx=3&sn=5d8e62993e5ecd4582703684c0d12e44&chksm=1bbff26d2cc87b7bf2504a8a4cafc60919d722b6e9acbcee81a626924d80f53a49301df9bd97&scene=18#wechat_redirect)**
 
 ## 内容框架
 
@@ -359,6 +382,29 @@
     - [3.3 训练过程](DeepLearningAlgorithm/adversarial_training_study/readme.md#33-训练过程)
     - [3.4  训练所涉及相关理论基础](DeepLearningAlgorithm/adversarial_training_study/readme.md#34--训练所涉及相关理论基础)
   - [四、总结](DeepLearningAlgorithm/adversarial_training_study/readme.md#四总结)
+- [【关于 RNN】那些你不知道的事](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#关于-rnn那些你不知道的事)
+  - [一、RNN 篇](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#一rnn-篇)
+    - [1.2 为什么需要 RNN?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#12-为什么需要-rnn)
+    - [1.2 RNN 结构是怎么样的？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#12-rnn-结构是怎么样的)
+    - [1.3 RNN 前向计算公式？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#13-rnn-前向计算公式)
+    - [1.4 RNN 存在什么问题？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#14-rnn-存在什么问题)
+  - [二、长短时记忆网络(Long Short Term Memory Network, LSTM) 篇](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#二长短时记忆网络long-short-term-memory-network-lstm-篇)
+    - [2.1 为什么 需要 LSTM?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#21-为什么-需要-lstm)
+    - [2.2 LSTM 的结构是怎么样的?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#22-lstm-的结构是怎么样的)
+    - [2.3 LSTM 如何缓解 RNN 梯度消失和梯度爆炸问题?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#23-lstm-如何缓解-rnn-梯度消失和梯度爆炸问题)
+    - [2.3 LSTM 的流程是怎么样的?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#23-lstm-的流程是怎么样的)
+    - [2.4 LSTM 中激活函数区别?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#24-lstm-中激活函数区别)
+    - [2.5 LSTM的复杂度？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#25-lstm的复杂度)
+    - [2.6 LSTM 存在什么问题？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#26-lstm-存在什么问题)
+  - [三、GRU (Gated Recurrent Unit)](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#三gru-gated-recurrent-unit)
+    - [3.1 为什么 需要 GRU?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#31-为什么-需要-gru)
+    - [3.2 GRU 的结构是怎么样的?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#32-gru-的结构是怎么样的)
+    - [3.3 GRU 的前向计算?](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#33-gru-的前向计算)
+    - [3.4 GRU 与其他 RNN系列模型的区别？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#34-gru-与其他-rnn系列模型的区别)
+  - [四、RNN系列模型篇](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#四rnn系列模型篇)
+    - [4.1 RNN系列模型 有什么特点？](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#41-rnn系列模型-有什么特点)
+  - [参考](https://github.com/km1994/NLP-Interview-Notes/tree/main/DeepLearningAlgorithm/rnn#参考)
+
 
 ### 四、[【关于 NLP 学习算法】那些你不知道的事](NLPinterview)
 
@@ -1221,6 +1267,21 @@
 
 - [【关于 batch_size设置】那些你不知道的事](Trick/batch_size/)
   - [一、训练模型时，batch_size的设置，学习率的设置?](Trick/batch_size/readme.md#一训练模型时batch_size的设置学习率的设置)
+
+#### 5.4 [【关于 早停法 EarlyStopping 】那些你不知道的事](Trick/EarlyStopping/)
+
+- [【关于 早停法 EarlyStopping 】那些你不知道的事](Trick/EarlyStopping/)
+  - [一、 为什么要用 早停法 EarlyStopping？](#一-为什么要用-早停法-earlystopping)
+  - [二、 早停法 EarlyStopping 是什么？](#二-早停法-earlystopping-是什么)
+  - [三、早停法 torch 版本怎么实现？](#三早停法-torch-版本怎么实现)
+
+#### 5.5 [【关于 标签平滑法 LabelSmoothing 】那些你不知道的事](Trick/LabelSmoothing/)
+
+- [【关于 标签平滑法 LabelSmoothing 】那些你不知道的事](Trick/LabelSmoothing？/)
+  - [一、为什么要有 标签平滑法 LabelSmoothing？](#一为什么要有-标签平滑法-labelsmoothing)
+  - [二、 标签平滑法 是什么？](#二-标签平滑法-是什么)
+  - [三、 标签平滑法 torch 怎么复现？](#三-标签平滑法-torch-怎么复现)
+
 
 ### 六、[【关于 Python 】那些你不知道的事](python/)
 

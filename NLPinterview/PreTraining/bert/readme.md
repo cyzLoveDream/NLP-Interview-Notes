@@ -2,6 +2,10 @@
 
 > 作者：杨夕
 > 
+> NLP 论文读书笔记：https://github.com/km1994/nlp_paper_study
+> 
+> 面经：https://github.com/km1994/NLP-Interview-Notes/blob/main/NLPinterview/PreTraining/bert/readme.md
+> 
 > 论文链接：https://arxiv.org/pdf/1810.04805.pdf
 > 
 > 代码链接：https://github.com/google-research/bert
@@ -20,7 +24,7 @@
   - 维度鸿沟问题：词语的编码往往是随机的，导致不能很好地刻画词与词之间的相似性。
 
 ### 1.2【演变史】wordvec 存在问题?
-
+ 
 - 多义词问题
   - 因为 word2vec 为静态方式，即训练好后，每个词表达固定；
   
